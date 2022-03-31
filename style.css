@@ -10,6 +10,7 @@ html {
 }
 
 /* styling the headline section, welcome page */
+
 .headline {
   height: 100vh;
   width: 100vw;
@@ -18,6 +19,7 @@ html {
   background-size: contain;
   background-position: right 35px;
 }
+
 .orange {
   color: #f55800;
 }
