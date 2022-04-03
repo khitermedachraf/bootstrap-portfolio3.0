@@ -8,3 +8,17 @@ html {
 *::after {
   box-sizing: inherit;
 }
+
+/* styling the headline section, welcome page */
+
+.headline {
+  height: 100vh;
+  background-image: url("img/Illustration-header.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+}
+
+.orange {
+  color: #f55800;
+}
